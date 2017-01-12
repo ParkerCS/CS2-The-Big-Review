@@ -6,7 +6,7 @@
 # Make a call to that function
 
 # PROBLEM 2 (Pythagorean theorem - 4pts)
-# The Pythag orean theorem states that of a right triangle, the square of the
+# The Pythagorean theorem states that of a right triangle, the square of the
 # length of the diagonal side is equal to the sum of the squares of the lengths
 # of the other two sides (or a^2 + b^2 = c^2).
 # Write a program that asks the user for the lengths of the two sides that meet at a right angle.
