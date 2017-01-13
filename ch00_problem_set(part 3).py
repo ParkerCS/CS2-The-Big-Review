@@ -2,12 +2,12 @@
 
 # PROBLEM 1 (GPA - 4pts)
 # Grades are values between 0 and 100
-# We will translate grades to a 4.0 using:
+# We will translate grades to letters using:
 # http://www.collegeboard.com/html/academicTracker-howtoconvert.html
 # Make a variable for your percentage grade.
-# Make a series of if/elif/else statements to print the gpa grade.
+# Make a series of if/elif/else statements to print the letter grade.
 # If the user enters a grade lower than zero or higher than 100, just give an error message.
-# Don't worry about making an exception string entries right now.
+# Don't worry about making an exception for these right now.
 
 # PROBLEM 2 (Vowels - 5pts)
 # Ask the user to supply a string.
